@@ -1,6 +1,6 @@
 <template>
   <article
-    class="w-[calc(100svw-4.8rem)] bg-white rounded-lg p-7 flex flex-col gap-6"
+    class="w-[26rem] lg:w-[30rem] bg-white rounded-lg p-7 flex flex-col gap-6"
   >
     <section class="flex gap-6 items-center">
       <img src="~/assets/img/icon-star.svg" alt="icon-star" class="h-6" />
